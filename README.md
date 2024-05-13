@@ -20,7 +20,7 @@
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/sahan1111/RIO-MD-4v/fork) It***
+***1.`First STAR 🌟 This Repo/මුලින් ගිට් හබ් පේජ් එක ෆෝක් කරන්න...💗 ` And Then [`FORK`](https://github.com/sahan1111/RIO-MD-4v/fork) It***
 
 ***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://flash-md-z6lm.onrender.com/pair)***
 
