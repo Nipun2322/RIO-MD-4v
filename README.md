@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo/මුලින් ගිට් හබ් පේජ් එක ෆෝක් කරන්න...💗 ` And Then [`FORK`](https://github.com/sahan1111/RIO-MD-4v/fork) It***
 
-***2.`Get Session ID/සීසන් එක ගැනීමට` by [`SCANING QR/මෙක ඔබන්න...💗`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://flash-md-z6lm.onrender.com/pair)***
+***2.`Get Session ID/සීසන් එක ගැනීමට` by [`SCANING QR/මෙක ඔබන්න...💗`](https://Rio-md-qr.onrender.com) Or [`PAIRING CODE`](https://flash-md-z6lm.onrender.com/pair)***
 
 *-Copy The Session ID to paste it in Heroku*
 
