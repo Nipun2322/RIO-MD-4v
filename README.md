@@ -8,7 +8,7 @@
     <img alt="Ｒｉｏ-MD" width="700" height="300" src="https://telegra.ph/file/54623580dbfd30b74bc94.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/franceking1?tab=followers"><img title="Author" src="https://img.shields.io/badge/Ｒｉｏ-MD-red?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/sahan1111?tab=followers"><img title="Author" src="https://img.shields.io/badge/Ｒｉｏ-MD-green?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/sahan1111?tab=followershttps://github.com/sahan1111/RIO-MD-4v"><img title="Followers" src="https://img.shields.io/github/followers/sahan1111?label=Followers&style=social"></a>
@@ -36,8 +36,9 @@
 
 **2. If You Have a Heroku Account/එකවුන්ට් තියේනම් deploy ඔබන්න...**
     <br>
-<p align="center"><a href="https://Rio-deploy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://RIO-MD-deploy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
+**3. Deploy This Link Copy Paste Your github link ✔ Deploy කිරීමට මෙම ලින්ක් එක කොපි කර ඔබේ link එක දමන්න...**
 
 ***
 
