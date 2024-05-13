@@ -5,7 +5,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +RIO-MD 4v;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+RIO+SAHAN;RELEASED+15.05.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="Ｒｉｏ-MD" width="900" height="300" src="https://telegra.ph/file/54623580dbfd30b74bc94.jpg">
+    <img alt="Ｒｉｏ-MD" width="400" height="300" src="https://telegra.ph/file/54623580dbfd30b74bc94.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/sahan1111?tab=followers"><img title="Author" src="https://img.shields.io/badge/Ｒｉｏ-MD-green?style=for-the-badge&logo=github"></a>
