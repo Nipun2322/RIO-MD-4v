@@ -8,7 +8,7 @@
     <img alt="Ｒｉｏ-MD" width="700" height="300" src="https://telegra.ph/file/54623580dbfd30b74bc94.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/sahan1111/RIO-MD-4v"><img title="Author" src="https://img.shields.io/badge/Ｒｉｏ-MD-red?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/franceking1?tab=followers"><img title="Author" src="https://img.shields.io/badge/Ｒｉｏ-MD-red?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/franceking1?tab=followershttps://github.com/sahan1111/RIO-MD-4v"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
@@ -20,7 +20,7 @@
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/sahan1111/RIO-MD-4v/fork) It***
 
 ***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://flash-md-z6lm.onrender.com/pair)***
 
