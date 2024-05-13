@@ -29,39 +29,34 @@
 ***
 
 #### DEPLOY TO HEROKU 
-**1. If You Don't Have An Account On Heroku**
+**1. If You Don't Have An Account On Heroku/හෙරොකු එකවුන්ට් එකක් නෑ නම් හෙරුකු එකවුන්ට් එකක් හදාගන්න**
     <br>
 <p align="center"><a href="https://signup.heroku.com">
  <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://flash-deploy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://Rio-deploy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ***
 
 
 ### CONTRIBUTIONS 
--Contributions to Flash-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+-Contributions to RIO-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ***
 
 ### LICENSE 
--The FLASH-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+-The RIO-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
--Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
+-Enjoy the diverse features of the RIO-Md  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ***
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- [**On Instagram**](https://instagram.com/france.king1)
-- [**Via WhatsApp**](https://wa.me/254757835036)
+- [**On Instagram**]()
+- [**Via WhatsApp**](https://wa.me/94742314485)
 
 ***
 
-### THANKS TO:
-- [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds Addition.
-- [***Gifted Tech***](https://github.com/giftedtechnexus) For Genaral Help and Session Generation
-- [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption 
-- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
