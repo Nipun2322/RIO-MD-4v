@@ -40,6 +40,9 @@
 
 **3. Deploy This Link Copy Paste Your github link ✔ Deploy කිරීමට මෙම ලින්ක් එක කොපි කර ඔබේ link එක දමන්න...**
 
+https://dashboard.heroku.com/new?template= (copy)
+Your github page link (paste)
+
 ***
 
 
