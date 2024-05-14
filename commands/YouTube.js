@@ -10,7 +10,7 @@ const yts1 = require("youtube-yts");
 france({
   nomCom: "play",
   categorie: "Search",
-  reaction: "🙂"
+  reaction: "🎶"
 }, async (origineMessage, zk, commandeOptions) => {
   const { ms, repondre, arg } = commandeOptions;
      
@@ -29,7 +29,8 @@ france({
           
        let infoMess = {
           image: {url : videos[0]. thumbnail},
-         caption : `*RIO-MD POWERED BY Sahan SONG DOWNLOADER*\n\n*Title:* ${videos[0].title}
+         caption : `*(っ◔◡◔)っ ♥ Powered by ©RIo X Sahan ♥
+ SONG DOWNLOADER*\n\n*Title:* ${videos[0].title}
          
 *Duration:* ${videos[0].timestamp}
 *Song Url:* ${videos[0].url}
@@ -84,7 +85,7 @@ france({
 france({
   nomCom: "video",
   categorie: "Search",
-  reaction: "🎥"
+  reaction: "📲"
 }, async (origineMessage, zk, commandeOptions) => {
   const { arg, ms, repondre } = commandeOptions;
 
@@ -103,13 +104,13 @@ france({
 
       let InfoMess = {
         image: { url: videos[0].thumbnail },
-        caption: `*RIO-MD POWERED BY Sahan VIDEO DOWNLOADER*\n\n*Title :* ${Element.title}
+        caption: `*🅿🅾🆆🅴🆁🅴🅳 🅱🆈 ©🆁🅸🅾 🆇 🆂🅰🅷🅰🅽 VIDEO DOWNLOADER*\n\n*Title :* ${Element.title}
 *Duration :* ${Element.timestamp}
 *Video Url:* ${Element.url}
 
 
 
-*Powered by ©RIo,x.Sahan*\n\n`
+*🅿🅾🆆🅴🆁🅴🅳 🅱🆈 ©🆁🅸🅾 🆇  🆂🅰🅷🅰🅽*\n\n`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
@@ -130,7 +131,7 @@ france({
 
       fileStream.on('finish', () => {
         // Envoi du fichier vidéo en utilisant l'URL du fichier local
-        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*FLASH-MD*", gifPlayback: false }, { quoted: ms });
+        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*RIO-MD*", gifPlayback: false }, { quoted: ms });
       });
 
       fileStream.on('error', (error) => {
