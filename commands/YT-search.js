@@ -25,7 +25,7 @@ const yts = require("yt-search");
 const ytdl = require('ytdl-core');
 const fs = require('fs');
 
-france({ nomCom: "yts", categorie: "Search", reaction: "✋" }, async (dest, zk, commandeOptions) => {
+france({ nomCom: "yts", categorie: "Search", reaction: "🌀" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, arg } = commandeOptions;
   const query = arg.join(" ");
 
@@ -54,7 +54,7 @@ france({ nomCom: "yts", categorie: "Search", reaction: "✋" }, async (dest, zk,
 france({
   nomCom: "ytmp4",
   categorie: "Download",
-  reaction: "🎥"
+  reaction: "🤝🏻"
 }, async (origineMessage, zk, commandeOptions) => {
   const { arg, ms, repondre } = commandeOptions;
 
@@ -116,7 +116,7 @@ _*En cours de téléchargement...*_\n\n`
 france({
   nomCom: "ytmp3",
   categorie: "Download",
-  reaction: "💿"
+  reaction: "👻"
 }, async (origineMessage, zk, commandeOptions) => {
   const { ms, repondre, arg } = commandeOptions;
 
