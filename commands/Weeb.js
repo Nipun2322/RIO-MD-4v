@@ -26,7 +26,7 @@ const { writeFile } = require('fs/promises')
 france({
   nomCom: "waifu",
   categorie: "Weeb",
-  reaction: "😏"
+  reaction: "🥺"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
@@ -50,7 +50,7 @@ async (origineMessage, zk, commandeOptions) => {
 france({
   nomCom: "neko",
   categorie: "Weeb",
-  reaction: "😺"
+  reaction: "🥰"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
@@ -73,7 +73,7 @@ async (origineMessage, zk, commandeOptions) => {
 france({
   nomCom: "shinobu",
   categorie: "Weeb",
-  reaction: "🦋"
+  reaction: "😘"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
@@ -96,7 +96,7 @@ async (origineMessage, zk, commandeOptions) => {
 france({
   nomCom: "megumin",
   categorie: "Weeb",
-  reaction: "💥"
+  reaction: "😗"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
@@ -120,7 +120,7 @@ async (origineMessage, zk, commandeOptions) => {
 france({
   nomCom: "cosplay",
   categorie: "Weeb",
-  reaction: "😏"
+  reaction: "😙"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
@@ -146,7 +146,7 @@ async (origineMessage, zk, commandeOptions) => {
 });
 
 
-france({nomCom:"couplepp",categorie: "Weeb",reaction : "💞"},async(dest,zk,commandeOptions)=>{ const {repondre , ms} = commandeOptions;
+france({nomCom:"couplepp",categorie: "Weeb",reaction : "😻"},async(dest,zk,commandeOptions)=>{ const {repondre , ms} = commandeOptions;
     let api = 'https://smiling-hosiery-bear.cyclic.app/weeb/couplepp'
   try {
      repondre('she/he dont love you :)')
